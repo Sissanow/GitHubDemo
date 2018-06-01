@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "GitHub V 1.0.0" );
+        System.out.println( "GitHub Demo V 1.0.0" );
     }
 }
